@@ -22,7 +22,7 @@ Follow these steps to set up and run the Magic Square Puzzle game in python:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/magic-square-puzzle-python.git
+   git clone https://github.com/Daksh2060/magic-square-puzzle-python.git
    ```
 
 2. Install `numpy` and `pygame` if not already installed:
