@@ -37,7 +37,7 @@ Follow these steps to set up and run the Magic Square Puzzle game in python:
 
 ## How to play
 
-1. **Choose a game goard:** Select a game board by entering a number from 1 to 4.
+1. **Choose a game board:** Select a game board by entering a number from 1 to 4.
 
 2. **Pick a spot on the board:** Choose value to change by inputing row and column.
 
