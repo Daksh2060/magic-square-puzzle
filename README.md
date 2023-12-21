@@ -47,7 +47,7 @@ Follow these steps to set up and run the Magic Square Puzzle game in python:
 
 4. **Scoring:** Earn points for boards won.
 
-5. **Past game catalogue:** The final board of each game is saved as a generated image, using colored squares to represent game baord states.
+5. **Past game catalogue:** The final board of each game is saved as a generated image.
 
 6. **Play Again:** You can quickly start a new game if you choose to play again.
 
