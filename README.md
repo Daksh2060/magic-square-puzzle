@@ -5,7 +5,7 @@ This is Magic Square, a Python puzzle game challenging your strategic thinking. 
 
 - **Board Selection:** Choose from four different game boards, each a grid with its own set of initial numbers, dimensions, and maximum number of turns to solve.
 
-- **Scoring System:** Game keeps track of how many games you have won and the total number of turns it took you to to get this score.
+- **Scoring System:** Game keeps track of how many boards you have cleared and the total number of turns it took you to to get this score.
 
 - **Custom Images:** Two images are generated and saved based on the game board for each playthrough, allowing you to keep a catalogue of past rounds.
 
@@ -39,7 +39,7 @@ Follow these steps to set up and run the Magic Square Puzzle game in python:
 
 1. **Choose a game board:** Select a game board by entering a number from 1 to 4.
 
-2. **Pick a spot on the board:** Choose value to change by inputing row and column.
+2. **Pick a spot on the board:** Choose a value to change by inputing its row and column.
 
 3. **Change value:** Choose a value between -9 and 9 to change value.
 
@@ -49,7 +49,7 @@ Follow these steps to set up and run the Magic Square Puzzle game in python:
 
 5. **Past game catalogue:** The final board of each game is saved as a generated image.
 
-6. **Play Again:** You can quickly start a new game if you choose to play again.
+6. **Play again:** You can quickly start a new game if you choose to play again.
 
 7. **Exit game:** You can exit Magic Square Puzzle between games or during a round.
 
