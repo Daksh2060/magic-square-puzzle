@@ -33,7 +33,7 @@ Follow these steps to set up and run the Magic Square Puzzle game in python:
 
     - **pip:** [Install pip (usually included with python)](https://pip.pypa.io/en/stable/installation/)
 
-3. Run `magicSquare.py` and follow instructions
+3. Run `magicSquare.py` to start the game.
 
 ## How to play
 
