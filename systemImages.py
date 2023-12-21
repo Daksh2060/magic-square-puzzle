@@ -1,7 +1,6 @@
 import pygame
 import numpy
 
-
 # Function used to load an image from a file and convert it to a 3D list of pixels.
 def getImage(filename):
   """

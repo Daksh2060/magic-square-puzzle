@@ -3,7 +3,7 @@ import createImages
 
 # Constants for board size and value range
 BOARD_SIZE_MIN = 1
-BOARD_SIZE_MAX = 5
+BOARD_SIZE_MAX = 4
 VALUE_MIN = -9
 VALUE_MAX = 9
 
@@ -99,7 +99,7 @@ def main():
 
     while play_again:
         # Choose a game board
-        board_choice = input("Please choose a board (1-5): ")
+        board_choice = input("Please choose a board (1-4): ")
         print("\n")
         while not board_choice.isdigit() or not BOARD_SIZE_MIN <= int(board_choice) <= BOARD_SIZE_MAX:
             board_choice = input("Please enter a board between 1 and 5: ")
